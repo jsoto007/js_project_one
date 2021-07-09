@@ -7,7 +7,7 @@ function userInput(event) {
    const userFName = document.getElementById("fName").value
    const userLName = document.getElementById("lName").value
 
-   console.log(input.value);
+ 
 
    
 
@@ -17,12 +17,7 @@ function userInput(event) {
 
 function userForm (uFirstName, uLastName) {
 
-    // fetch('http://localhost:3000/payroll')
-    // .then(response => response.json())
-    // .then(data => {
-    //   console.log(data);
-     
-    // });
+    console.log(uFirstName, uLastName);
   
 
 
