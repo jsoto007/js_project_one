@@ -5,22 +5,28 @@
         "id": 1,
         "rate": 30,
         "overTime": 45,
-        "name": "jose",
-        "lName": "soto",
+        "First Name": "jose",
+        "Last Name": "soto",
         "job title": "lead"
         
     },
     
     {
-        "id": "assist",
+        "id": 2,
       "rate": 25,
-      "overTime": 37.50
+      "overTime": 37.50,
+      "First Name": "a",
+      "Last Name": "n",
+      "job title": "assit"
     },
 
     {
-        "id": "staff",
+        "id": 3,
       "rate": 20,
-      "overTime": 30
+      "overTime": 30,
+      "First Name": "k",
+      "Last Name": "f",
+      "job title": "staff"
     }
 
 
