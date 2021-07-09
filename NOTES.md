@@ -1,7 +1,7 @@
 
 
 how can I build a table that takes in content and return a value by doing math with the server information?
-
+git 
 
 GENERAL NOTES
 for the server we can do the pay depending on the job tittle.
@@ -29,3 +29,11 @@ Extra
 load the page and show the content
 #
 #create a page where the user is able to add information.
+
+
+
+
+
+######links and resources 
+create a table 
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces
