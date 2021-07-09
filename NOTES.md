@@ -1,4 +1,8 @@
 
+
+how can I build a table that takes in content and return a value by doing math with the server information?
+
+
 GENERAL NOTES
 for the server we can do the pay depending on the job tittle.
 when a new user is added we can assing a job tittle.
