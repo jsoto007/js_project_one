@@ -1,0 +1,28 @@
+{
+"Payroll": [
+
+    {
+        "id": "js101",
+        "name": "Jose Soto",
+        "rate": 30,
+        "miles": 0.43
+        
+    },
+    
+    {
+        "id": "cp102",
+      "name": "CP",
+      "rate": 45,
+      "miles": 0.40
+    },
+
+    {
+        "id": "an103",
+      "name": "AN",
+      "rate": 27,
+      "miles": 0.43
+    }
+
+
+]
+}
