@@ -4,21 +4,23 @@ function userInput(event) {
 
     event.preventDefault();
 
+    console.log(event)
+
    const userFName = document.getElementById("fName").value
    const userLName = document.getElementById("lName").value
 
  
 
    
-
+   event.target.children
 }
+
 
 
 
 function userForm (uFirstName, uLastName) {
 
-    console.log(uFirstName, uLastName);
-  
+
 
 
 }

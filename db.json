@@ -2,20 +2,20 @@
 "payroll": [
 
     {
-        "id": "lead",
+        "id": 1,
         "rate": 30,
         "overTime": 45
         
     },
     
     {
-        "id": "assit",
+        "id": 2,
       "rate": 25,
       "overTime": 37.50
     },
 
     {
-        "id": "staff",
+        "id": 3,
       "rate": 20,
       "overTime": 30
     }
