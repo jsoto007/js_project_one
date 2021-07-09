@@ -1,0 +1,29 @@
+document.getElementById("form").addEventListener("submit", userInput);
+
+function userInput(event) {
+
+    event.preventDefault();
+
+   const userFName = document.getElementById("fName").value
+   const userLName = document.getElementById("lName").value
+
+   console.log(input.value);
+
+   
+
+}
+
+
+
+function userForm (uFirstName, uLastName) {
+
+    // fetch('http://localhost:3000/payroll')
+    // .then(response => response.json())
+    // .then(data => {
+    //   console.log(data);
+     
+    // });
+  
+
+
+}
