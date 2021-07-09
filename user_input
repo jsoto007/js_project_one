@@ -1,4 +1,4 @@
-document.getElementById("form").addEventListener("submit", userInput);
+document.getElementById("lastN").addEventListener("submit", userInput);
 
 function userInput(event) {
 
@@ -12,7 +12,7 @@ function userInput(event) {
  
 
    
-   event.target.children
+//    event.target.children
 }
 
 

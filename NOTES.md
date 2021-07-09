@@ -37,3 +37,18 @@ load the page and show the content
 ######links and resources 
 create a table 
 https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Traversing_an_HTML_table_with_JavaScript_and_DOM_Interfaces
+
+
+
+
+
+NEW GOAL
+#
+#combine the job title with user (match)
+#Add user with job title
+
+
+#calculate pay
+#dispay math
+
+#
