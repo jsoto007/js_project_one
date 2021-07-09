@@ -1,7 +1,6 @@
-const URL = 'http://localhost3000/payroll';
 
-fetch(URL)
-.them(response => response.json())
+fetch('http://localhost:3000/payroll')
+.then(response => response.json())
 .then(data => {
 
 console.log(data);
