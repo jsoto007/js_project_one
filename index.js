@@ -21,16 +21,7 @@ data.forEach(payroll => {
 
 })
 
-function postIndo(body) {
-    return fetch('http://localhost:3000/payroll', {
-      method: 'POST',
-      headers: {
-        'Accept': 'application/json'
-      },
-      body: JSON.stringify(body)
-    })
-    .then(res => res.json())
-  }
+
 
 
 
