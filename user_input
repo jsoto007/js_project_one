@@ -1,5 +1,21 @@
-document.getElementById("lastN").addEventListener("submit", userInput);
+const empleyeesName = document.getElementById("lastN").addEventListener("submit", userInput);
+        const saveButton = document.querySelector('#save_button')
+        const employeeInfoUl = document.querySelector('#employee_info')
 
+        let currentInfo = {}
+        const savedInfo = []
+
+        function saveinfo(info) {
+
+            savedInfo.push(currentInfo)
+            const li = document.createElement('li')
+            li.innerText = currentInfo.info
+            employeeInfoUl.append(li)
+        }
+
+       
+
+        saveInfo.addEventListener('click', () => savedInfo)
 function userInput(event) {
 
     event.preventDefault();
@@ -20,7 +36,11 @@ function userInput(event) {
 
 function userForm (uFirstName, uLastName) {
 
-
-
-
+    
+    
 }
+
+
+
+
+
